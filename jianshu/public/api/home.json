@@ -1,0 +1,58 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "电影",
+			"imgUrl": "https://upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "读书",
+			"imgUrl": "https://upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 3,
+			"title": "故事",
+			"imgUrl": "https://upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },
+        {
+			"id": 4,
+			"title": "科技",
+			"imgUrl": "https://upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 5,
+			"title": "军事",
+			"imgUrl": "https://upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "另一半的样子",
+			"desc": "一天晚饭后，和还没有谈过恋爱的女儿闲聊 女儿:妈妈你爱我爸爸吗？ 我嘴角上扬:爱啊！ 女儿嫣然一笑:爱他什么? 我挺直身子扭过头声音抬高八度: ...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/12244842-6bfd1abbbf2bc335.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "【诗歌】一个人的旅行",
+			"desc": "原创/读雪听寒 大雨落下的时候 我象鱼一样在街上游走 这无望的窒息 到天明都让人无法入睡 是什么已经不重要了 你没有问，我也不会说 告别路边的石...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "炼心",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/10481913-3f62b3789c7f3721.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/4382377-cbdeb8a931489acd.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/7129846-f5007178a1a061df?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },
+        {
+			"id": 3,
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/12992106-78c7cd19ff7539c2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },
+        {
+			"id": 4,
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/10214335-f2a74b4b3c42eb4a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}]
+	}
+}
